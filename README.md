@@ -1,3 +1,3 @@
 # FitSalon
 
-fitsalon.netlify.app
+https://fitsalon.netlify.app
